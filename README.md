@@ -26,6 +26,12 @@ This is a DSA (Data Structure and Algorithms) project that offers comprehensive 
 
 12. **Balance Display**: The project prominently displays the available balance, keeping users informed about their balance status.
 
+## Screenshot
+
+
+![ds1](https://github.com/Yasiraleee/Phone-Directory-DSA-Project/assets/117939487/97ea6ec5-cc33-4b1c-b63e-adb1e0f964ae)
+
+
 ## Usage
 
 To use the DSA project, follow these steps:
